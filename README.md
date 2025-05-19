@@ -4,6 +4,7 @@
 ✨ Desenvolvido com React Native + Expo + TypeScript
 
 </div>
+
 📌 Índice
 
 Funcionalidades
@@ -16,11 +17,8 @@ Instalação
 
 Executando
 
-Estrutura do Projeto
-
 Desenvolvedores
 
-Licença
 
 🌟 Funcionalidades
 
@@ -34,14 +32,21 @@ Licença
 
 ✔ Tela "Sobre" com informações da equipe
 
+
 🛠 Tecnologias
 
-React Native	
+React Native
+
 Expo
+
 TypeScript
+
 React Navigation
+
 AsyncStorage
+
 Git	
+
 
 ⚙️ Pré-requisitos
 
@@ -52,6 +57,7 @@ Git
 -Expo CLI instalado globalmente (npm install -g expo-cli)
 
 -Dispositivo móvel com Expo Go ou emulador configurado
+
 
 📥 Instalação
 
@@ -67,6 +73,7 @@ cd mottu-truck-challenge
  
 npm install
 
+
 ▶️ Executando
 
 -Inicie o servidor de desenvolvimento
@@ -80,6 +87,7 @@ ou:
 Android: Pressione a no terminal
 
 iOS: Pressione i no terminal
+
 
 👨‍💻 Desenvolvedores
 
