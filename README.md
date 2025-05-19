@@ -91,8 +91,14 @@ iOS: Pressione i no terminal
 
 👨‍💻 Desenvolvedores
 
-Enzo Dias	Matheus Reis	Luan Dantas
-RM: 558438	RM: 555861	RM: 559004
+--Enzo Dias Alfaia Mendes{"\n"}
+          RM: 558438{"\n"}
+          GitHub: enzodam
 
-<div align="center"> 📧 **Dúvidas?** Abra uma [issue](https://github.com/seu-usuario/Mottu-Track-Challenge-Mobile/issues) no GitHub! </div>
-<div align="center"> ✨ **Obrigado por utilizar nosso sistema!** ✨ </div>
+--Matheus Henrique Germano Reis{"\n"}
+          RM: 555861{"\n"}
+          GitHub: MatheusReis48
+
+--Luan Dantas dos Santos{"\n"}
+          RM: 559004{"\n"}
+          GitHub: lds2125
