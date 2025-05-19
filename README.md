@@ -91,14 +91,20 @@ iOS: Pressione i no terminal
 
 👨‍💻 Desenvolvedores
 
---Enzo Dias Alfaia Mendes{"\n"}
-          RM: 558438{"\n"}
+--Enzo Dias Alfaia Mendes
+
+          RM: 558438
+          
           GitHub: enzodam
 
---Matheus Henrique Germano Reis{"\n"}
-          RM: 555861{"\n"}
+--Matheus Henrique Germano Reis
+
+          RM: 555861
+          
           GitHub: MatheusReis48
 
---Luan Dantas dos Santos{"\n"}
-          RM: 559004{"\n"}
+--Luan Dantas dos Santos
+
+          RM: 559004
+          
           GitHub: lds2125
