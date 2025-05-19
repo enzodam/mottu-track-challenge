@@ -1,8 +1,6 @@
-🏍️ Mottu Track Challenge
+🏍️ Mottu Track
 
-🚀 Sistema de gerenciamento de pátio para motocicletas
-
-✨ Desenvolvido com React Native + Expo + TypeScript
+- Sistema de gerenciamento de pátio para motocicletas
 
 
 📌 Índice
